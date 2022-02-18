@@ -7,12 +7,12 @@ Lala/Khala to automate “In/Out” record keeping. Record of a student includes
 registration number, name, billing information, “In/Out” status, and total number of “In” days.
 
 Your program will perform the following functionalities.
-• Register a new student.
-• Search a student record.
-• Change student mess status (“In/Out”).
-• Delete a student record.
-• Show a total number of “In/Out” students.
-• Calculate total bill.
+- • Register a new student.
+- • Search a student record.
+- • Change student mess status (“In/Out”).
+- • Delete a student record.
+- • Show a total number of “In/Out” students.
+- • Calculate total bill.
 
 Further details about each functionality are described below:
 
