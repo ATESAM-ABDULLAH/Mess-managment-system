@@ -31,8 +31,8 @@ student registration number, display the current mess status and ask to change t
 changing the status, you should update that student’s status in the record table.
 
 **Delete a student record:** Your program will delete a student record and update the data table
-accordingly. If Lala/Khala wants to delete a non-registered student record, add an exception.
-Show a total number of “In/Out” students: If Lala/Khala wants to check the total number of “In”
+accordingly. If Staff wants to delete a non-registered student record, add an exception.
+Show a total number of “In/Out” students: If Staff wants to check the total number of “In”
 students or “Out” students, your program will help to show the information.
 
 **Calculate total bill:** This function will keep record of total number of “In” days of a student. Each
